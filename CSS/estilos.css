@@ -1,0 +1,11 @@
+@font-face {
+    font-family: abel;
+    src: url("abel.ttf");
+}
+
+.titulo {
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(41, 22, 112);
+}
+
