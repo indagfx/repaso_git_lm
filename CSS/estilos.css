@@ -9,3 +9,21 @@
     color: rgb(41, 22, 112);
 }
 
+h1 {
+  font-weight: bold;
+  color: red;
+}
+
+h2{
+    text-decoration: underline;
+
+}
+
+p {
+    font-weight: bold;
+    color: red;
+}
+
+li {
+    color: purple;
+}
