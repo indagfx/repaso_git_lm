@@ -27,3 +27,16 @@ p {
 li {
     color: purple;
 }
+
+.img1 {
+    height: 300px;
+    width: 300px;
+    border: 1px dotted purple;
+}
+
+.img2 {
+    height: 300px;
+    width: 600px;
+    border: 1px dotted purple;
+
+}
